@@ -1,0 +1,10 @@
+.quote {
+  padding: 2rem;
+  font-size: 2rem;
+  max-width: 500px;
+}
+
+.author {
+  font-size: 1.5rem;
+  color: #333;
+}

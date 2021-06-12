@@ -1,0 +1,10 @@
+.logo {
+  width: 200px;
+  animation: fading 3s ease-in-out infinite;
+}
+
+@keyframes fading {
+  50% {
+    opacity: 0;
+  }
+}
